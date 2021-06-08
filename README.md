@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 ![Priyan's github stats](https://github-readme-stats.vercel.app/api?username=priyan1995&show_icons=true&hide_border=true)
 -->
 
-### Hi there, I'm Priyan👋
 
-[![](https://raw.githubusercontent.com/priyan1995/priyan1995/master/profile.gif)](https://www.priyan1995.com/)<!-- If you want the template for my gif, email me! -->
+
+[![](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)](https://www.priyan1995.com/)<!-- If you want the template for my gif, email me! -->
+
+### Hi there, I'm Priyan..👋...
 
 ### Languages
 
