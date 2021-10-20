@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![WORDPRESS](https://img.shields.io/badge/-Wordpress-lightgrey)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-important)
 ![Angular](https://img.shields.io/badge/-Angular-critical)
+![React](https://img.shields.io/badge/-React-blue)
 ![Shopify](https://img.shields.io/badge/-shopify-success)
 
 ### Tools
